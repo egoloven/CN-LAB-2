@@ -1,0 +1,3 @@
+Wed Dec  2 08:55:50 2020I connected to the server
+Wed Dec  2 08:55:50 2020Server send me Hello user 2
+Wed Dec  2 08:55:56 2020I send end to server

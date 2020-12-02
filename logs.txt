@@ -1,0 +1,8 @@
+Wed Dec  2 08:54:41 2020Server has been started
+Wed Dec  2 08:54:43 2020User ('127.0.0.1', 56108) has connected to the server
+Wed Dec  2 08:55:50 2020User ('127.0.0.1', 56111) has connected to the server
+Wed Dec  2 08:55:54 2020('127.0.0.1', 56108) ask about end word
+Wed Dec  2 08:55:54 2020('127.0.0.1', 56108) disconnected
+Wed Dec  2 08:55:56 2020('127.0.0.1', 56111) ask about end word
+Wed Dec  2 08:55:56 2020('127.0.0.1', 56111) disconnected
+Wed Dec  2 08:56:16 2020Server stoped
